@@ -1,6 +1,8 @@
-# AI-Personal-Assistant-
+# PersonalAssistant
 It is an Personal Assistant, capable to perform many tasks with some unique features, that you haven'e seen yet....  
-![WhatsApp Image 2021-11-28 at 11 46 33 AM](https://user-images.githubusercontent.com/86604472/150397958-d07f8c65-d4c7-409d-b3ca-ad622a3b5891.jpeg)
+
+![alt text](thumbnail.jpg)
+
 ## Features / Tasks it can perform:  
 1. Game (eg, Rock Paper Scissor with GUI)  
 2. Search anything from wikipedia, google maps, etc  
@@ -205,6 +207,7 @@ It is an Personal Assistant, capable to perform many tasks with some unique feat
 
 
 ### To get started, run SECURITY.py file to register your face and to use it...  
+
 ## Common Installation Issues  
 ```
 pyaudio not installing  
@@ -216,3 +219,5 @@ pyaudio not installing
 Raise an Issue ticket if you have any other problems  <br><br><br>
 
 ## Let's contribute together and make this chatbot to be more advanced AI Chatbot 🧐  
+
+
