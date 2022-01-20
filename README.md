@@ -1,7 +1,6 @@
 # PersonalAssistant
 It is an Personal Assistant, capable to perform many tasks with some unique features, that you haven'e seen yet....  
-
-![alt text](thumbnail.jpg)
+![WhatsApp Image 2021-10-08 at 11 19 25 AM](https://user-images.githubusercontent.com/86604472/150401727-b2fa76e6-1248-4893-a67d-b5331c5f9415.jpeg)
 
 ## Features / Tasks it can perform:  
 1. Game (eg, Rock Paper Scissor with GUI)  
