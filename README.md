@@ -1,6 +1,6 @@
 # AI-Personal-Assistant-
 It is an Personal Assistant, capable to perform many tasks with some unique features, that you haven'e seen yet....  
-
+![WhatsApp Image 2021-11-28 at 11 46 33 AM](https://user-images.githubusercontent.com/86604472/150397958-d07f8c65-d4c7-409d-b3ca-ad622a3b5891.jpeg)
 ## Features / Tasks it can perform:  
 1. Game (eg, Rock Paper Scissor with GUI)  
 2. Search anything from wikipedia, google maps, etc  
